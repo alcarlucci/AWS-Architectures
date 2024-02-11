@@ -1,6 +1,6 @@
 # Arquitetura hibrida On-premises/AWS para Backup e DR
 
-Diagrama de uma Arquitetura básica hibrida entre ambientes On-premisses e Cloud AWS para Backup de arquivos e Disater Recovery de uma Aplicação Corporativa legada.
+Diagrama de uma Arquitetura básica híbrida entre ambientes On-premises e Cloud AWS para Backup de arquivos e Disaster Recovery de uma Aplicação Corporativa legada.
 
 ## Serviços da AWS utilizados
 
