@@ -6,6 +6,7 @@ Diagramas apresentando exemplos de Arquiteturas na AWS, como resultado dos meus 
 
 - [Backup e DR](./Backup-DR/)
 - [Network básico](./Network-basic/)
+- [Load Balancers](./LoadBalancer-EC2/)
 
 ##
 
