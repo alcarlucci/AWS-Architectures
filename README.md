@@ -5,6 +5,7 @@ Diagramas apresentando exemplos de Arquiteturas na AWS, como resultado dos meus 
 ## Diagramas de Arquiteturas
 
 - [Backup e DR](./Backup-DR/)
+- [Network básico](./Network-basic/)
 
 ##
 
